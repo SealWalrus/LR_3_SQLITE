@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.963,=D:\sqlite\sqlite3.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.404,D:\builder_projects\Project1PCH1.h=D:\builder_projects\Opera_History_ViewerPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.575,=D:\builder_projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.447,D:\builder_projects\Opera_History_Viewer.cbproj=D:\builder_projects\Opera_History_Viewer\Opera_History_Viewer.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.432,D:\builder_projects\Opera_History_ViewerPCH1.h=D:\builder_projects\Opera_History_Viewer\Opera_History_ViewerPCH2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.054,=D:\sqlite\sqlite3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.131,=D:\sqlite\sqlite3.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.527,D:\builder_projects\Unit1.dfm=D:\builder_projects\Opera_History_Viewer\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.527,D:\builder_projects\Unit1.h=D:\builder_projects\Opera_History_Viewer\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.527,D:\builder_projects\Unit1.cpp=D:\builder_projects\Opera_History_Viewer\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.639,=D:\builder_projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.407,D:\builder_projects\Project1.cbproj=D:\builder_projects\Opera_History_Viewer.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
