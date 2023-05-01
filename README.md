@@ -1,2 +1,2 @@
-# LR_3_SQLITE
-SQLITE_SIGN
+# LR3_SQLITE
+Лабораторная работа по работе с базой данных SQLite
